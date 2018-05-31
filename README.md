@@ -11,6 +11,7 @@ The original Khan Academy chat client.
     - Built-in blacklist to keep posts clean*
     - Emoji support, so that :D displays as 😃*
     - LiveChat tab on the comment page, so you can nicely edit your settings, check out the FAQs or stay up-to-date on current features*
+    - Image display, so that those screenshots aren't just links*
 
 Whether you're collaborating on a project or just talking with friends, *LiveChat3* will make your chatting experience on KA even better. Why not give it a shot? It's as easy-to-use as clicking a button (literally).
 
